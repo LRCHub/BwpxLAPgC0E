@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "命の帳",
+  "base_artist": "Tokyo Incidents",
+  "createdAt": "2025-12-03T13:17:04.301194Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Inochi no Tobari [命の帳]",
+      "artist": "Tokyo Incidents",
+      "has_synced": true,
+      "path": "select/01_Inochi_no_Tobari_[命の帳]_Tokyo_Incidents.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "命の帳",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_01_命の帳_東京事変.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "命の帳",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_02_命の帳_東京事変.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "命の帳",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_03_命の帳_東京事変.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "命の帳",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_04_命の帳_東京事変.txt"
+    }
+  ]
+}
